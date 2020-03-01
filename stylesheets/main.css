@@ -13,7 +13,7 @@
     }
 
     ::selection, ::-moz-selection {
-        background: #29b6f6;
+        color: #29b6f6;
     }
 
     .footer {
@@ -30,7 +30,7 @@
 }
 
 ::selection, ::-moz-selection {
-    background: #90caf9;
+    color: #90caf9;
 }
 
 h2 {
