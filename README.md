@@ -6,6 +6,10 @@ license, which means that by default, the materials listed in this website are c
 not modifiable by any other people. I have done this because a project such as this is incredibly
 personal, and having outside members contribute to it wouldn't make any sense.
 
-# License / Copyright
+However, I very quickly decided thatit might be nice if users could at least inspect the website's
+source publicly, without going through alternative means, like using Chrome / Microsoft Edge's Developer
+Tools.
 
-Copyright Â© 2020-present Kamran Mackey. All Rights Reserved, unless otherwise noted.
+## License / Copyright
+
+Copyright © 2020-present Kamran Mackey. All Rights Reserved, unless otherwise noted.
