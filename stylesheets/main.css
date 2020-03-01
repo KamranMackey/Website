@@ -12,6 +12,10 @@
         color: #ffffff;
     }
 
+    ::selection, ::-moz-selection {
+        background: #29b6f6;
+    }
+
     .footer {
         background: #121212;
         color: #ffffff;
@@ -23,6 +27,10 @@
     text-align: center;
     font-family: 'Oxygen', sans-serif;
     font-size: 18px;
+}
+
+::selection, ::-moz-selection {
+    background: #90caf9;
 }
 
 h2 {
