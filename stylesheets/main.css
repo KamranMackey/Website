@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Oxygen&display=swap');
+
+.header {
+    padding: 5px;
+    text-align: center;
+    background: #ffffff;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 18px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
