@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kamranmackey
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kamranmackey.github.io
+  * I am kamranmackey (https://keybase.io/kamranmackey) on keybase.
+  * I have a public key ASBj-QIqYgcy1aQltq-_20KW_KcRbJXKo9X0KrpMwIBqiwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208bac102a1ed5265d0eac3a3d3063ff4c55371ebdc3d4b60e298bce6481bb9ddc0a",
+      "host": "keybase.io",
+      "kid": "012063f9022a620732d5a425b6afbfdb4296fca7116c95caa3d5f42aba4cc0806a8b0a",
+      "uid": "0cf7c31bcedcfd60e28288aa14b99f19",
+      "username": "kamranmackey"
+    },
+    "merkle_root": {
+      "ctime": 1583100118,
+      "hash": "d203d99d362c6b44ff64db39fd4f1d058b82ce50efda381608de2d48cb0a64e40c84021752fa87e480f206f9fbe23d3a9bc86436d220257004dd7e312ad6b280",
+      "hash_meta": "ccf29e3a4cdafe5a2b20ee303cb44655eccab75dae8673b11bc8e9d9087d167f",
+      "seqno": 14885646
+    },
+    "service": {
+      "entropy": "hmx1oaVzewygl2GxTRmyvZTH",
+      "hostname": "kamranmackey.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.1"
+  },
+  "ctime": 1583100130,
+  "expire_in": 504576000,
+  "prev": "ca030fb8a8eb4bf998dfbba9f5a23159ee652faf02859aa4b88936ad99b49cd3",
+  "seqno": 30,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgY/kCKmIHMtWkJbavv9tClvynEWyVyqPV9Cq6TMCAaosKp3BheWxvYWTESpcCHsQgygMPuKjrS/mY37up9aIxWe5lL68ChZqkuIk2rZm0nNPEII5aZJJvToyCVOuIDDExYSmbS+/OJhxqyvXBZDPU8K2HAgHCo3NpZ8RASFFKtUn/vjyaKVNS0edfJWKfXiuuJX3F60Hdp6vErLLyknmK/SY0uUAQtj9ohCmWcUMxybNYa1YXm/0gmcynCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIC46Rn2Pw6cDlzDkFo81EP/bLEpK7Qhk1OY5Uf2N3yG0o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kamranmackey
+
+==================================================================
