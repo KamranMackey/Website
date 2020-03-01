@@ -13,15 +13,16 @@ h2 {
     font-family: 'Montserrat', sans-serif;
 }
 
-p {
+#headerBlurb {
     font-family: 'Montserrat', sans-serif;
-    font-size: 20px;
 }
 
 .footer {
-    font-family: 'Monsterrat', sans-serif;
     position: fixed;
     left: 0;
     bottom: 0;
+    width: 100%;
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
 }
