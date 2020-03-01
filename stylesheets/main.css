@@ -3,17 +3,17 @@
 
 @media (prefers-color-scheme: dark) {
     .header {
-        background-color: #121212;
+        background: #121212;
         color: #ffffff;
     }
 
     body {
-        background-color: #121212;
+        background: #121212;
         color: #ffffff;
     }
 
     .footer {
-        background-color: #121212;
+        background: #121212;
         color: #ffffff;
     }
 }
@@ -21,7 +21,6 @@
 .header {
     padding: 5px;
     text-align: center;
-    background-color: #ffffff;
     font-family: 'Oxygen', sans-serif;
     font-size: 18px;
 }
