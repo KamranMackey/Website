@@ -12,4 +12,7 @@ Developer Tools.
 
 ## License / Copyright
 
-Copyright © 2020-present Kamran Mackey. All Rights Reserved, unless otherwise noted.
+Copyright © 2020-present Kamran Mackey. All Rights Reserved, unless otherwise noted. Please read the
+headers at the top of any source files, to find more information about what this means. TL;DR: Everything
+in this repository is owned and copyrighted by me, except for the obvious stuff, like Bootstrap, jQuery, and
+any other JS / CSS libraries that are under a license.
